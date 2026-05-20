@@ -33,3 +33,13 @@ C) Verimlilik (Actionable Phase)
 6.Hangi kampanya (cmp1... cmp5) en düşük maliyetle en yüksek dönüşü sağladı?
 7.İndirimde alışveriş yapan müşteri kitlesi toplam kazancı ne kadarını oluşturuyor?
 #########################################################################################
+A,B,C Aşamalrı bitti çıkarımlarımıza bakalım.
+Veriden Stratejiye: Bir Pazarlama Analitiği Hikayesi
+Python ve SQL kullanarak yürüttüğüm müşteri davranış analizi projesinin ilk aşamalarını (A, B ve C) tamamladım! Ham verileri işlenebilir içgörülere dönüştürürken pazarlama bütçelerini optimize edecek çok çarpıcı sonuçlar elde ettim:
+🚀 Sonuç 1: Kampanya Başarısında Rekor Oran
+Şirketin geçmişte gerçekleştirdiği 5 farklı kampanyanın başarı oranları %1.36 ile %7.42 arasında seyrederken; uygulanan en güncel stratejiyle (Response) bu başarı oranını %15.06 seviyesine çıkardık. Bu, geçmiş ortalamaların tam 2.5 katı bir başarı demek!
+💰 Sonuç 2: "Doğru" Müşteriyi Yakalamak
+Tekliflerimizi kabul eden müşterilerin toplam harcama ortalaması 985.66 birim iken, kabul etmeyenlerin ortalaması 540.41 birimde kaldı. Yani son kampanyamız, indirim kovalayan kitleyi değil; markaya en çok finansal değer katan "Yüksek Değerli" (High-Value) müşterileri yakalamayı başardı.
+Peki, bu muazzam harcama farkı ve katılım oranları sadece istatistiksel bir tesadüf mü? >
+Bir sonraki paylaşımımda, bu sonuçların arkasındaki bilimsel kanıtları sunmak için Bağımsız İki Örneklem T-Testi ve Ki-Kare (Chi-Square) hipotez analizleriyle veriyi daha derinden konuşturacağım!
+

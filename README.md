@@ -53,4 +53,4 @@ Yapılan modelleme sonucunda müşteri kitlemiz 4 ana karaktere ayrılmıştır:
 * `hipotez_testleri.ipynb` -> İstatistiksel hipotez süreçleri
 * `müşteri_segmentasyonu.ipynb` -> K-Means modelleme ve görselleştirme adımları
 * `ifood_analiz.db` -> Projenin tüm verilerini tutan SQLite veritabanı dosyası
-*
+*segmented_marketing_data.xlsx` ->PowerBI için uygun hale getirildi.
